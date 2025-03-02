@@ -17,6 +17,8 @@ Connect the components as follows:
 - Arduino Uno RX (pin 0) to STM32 TX
 - Common ground between Arduino Uno and STM32
 
+## Connection Photo
+![image](https://github.com/user-attachments/assets/a07789e7-9538-4b24-b5bb-5da5278e4876)
 
 ## Conclusion
 
